@@ -1,0 +1,1 @@
+{"version":3,"sources":["src\\css\\default.scss"],"names":[],"mappings":"AAAA;EACE;;AAEA;EACE;;AAEF;EACE","file":"js.d818e0ef.css","sourceRoot":"..","sourcesContent":["body{\r\n  background:red;\r\n  \r\n  p{\r\n    color:yellow;\r\n  }\r\n  h1{\r\n    color:blue;\r\n  }\r\n}"]}
